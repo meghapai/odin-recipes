@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  text-align: center;
+  background-color: orange;
+  color: white;
+}
+
+ul li {
+  margin: 20px;
+  font-size: 20px;
+}
+
+#panipuri,
+#grilled-cheese,
+#brownies {
+  height: auto;
+  width: 500px;
+  margin-top: 10px;
+}
