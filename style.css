@@ -14,10 +14,29 @@ ul li {
   font-size: 20px;
 }
 
-#panipuri,
-#grilled-cheese,
-#brownies {
+.img-styles {
   height: auto;
   width: 500px;
   margin-top: 10px;
+}
+
+.panipuri,
+.desc-text,
+.grilled-cheese,
+.brownies {
+  margin: 10px;
+  border-radius: 20px;
+}
+
+.ol-text {
+  margin-left: 25px;
+}
+
+.ing {
+  list-style: square;
+  font-size: 15px;
+}
+
+.subhead {
+  font-size: 20px;
 }
